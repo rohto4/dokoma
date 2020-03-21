@@ -1,7 +1,6 @@
 # easy-chat
-[![Open in Cloud Shell](httpgstatic.comcloudsshimagesopen-btn.svg)](httpsconsole.cloud.google.comcloudshelleditorcloudshell_git_repo=https%3A%2F%2Fgithub.com%2Fkappa0923%2Feasy-chat.git)
-
-## Open in Cloud Shell‚É‚Â‚¢‚Ä
+[![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/rohto4/dokoma.git)
+## Open in Cloud Shellï¿½É‚Â‚ï¿½ï¿½ï¿½
 httpscloud.google.comshelldocsopen-in-cloud-shell
 
 ## LICENSE
